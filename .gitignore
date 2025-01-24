@@ -4,12 +4,6 @@
 # Ignore temporary files
 temp/
 
-# Ignore user-specific settings
-usersettings/
-
-# Ignore project-specific settings
-projectsettings/
-
 # Ignore package-related files
 packages/
 

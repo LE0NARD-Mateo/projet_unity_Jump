@@ -13,4 +13,8 @@ projectsettings/
 # Ignore package-related files
 packages/
 
-# Ignore log f
+# Ignore log files
+logs/
+
+# Ignore library files
+library/

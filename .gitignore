@@ -1,0 +1,16 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary files
+temp/
+
+# Ignore user-specific settings
+usersettings/
+
+# Ignore project-specific settings
+projectsettings/
+
+# Ignore package-related files
+packages/
+
+# Ignore log f
